@@ -14,5 +14,8 @@ public class Parent {
         p1.m1(5,1.5f);
         p1.m1('c',1);
         p1.m1(1,1L);
+        p1.m1(1,1.5f);
+        p1.m1('c',1);
+        System.out.println("for git hub changes ");
     }
 }
