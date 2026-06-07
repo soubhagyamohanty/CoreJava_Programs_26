@@ -7,7 +7,7 @@ public class Test {
         System.out.println(Object.class.getDeclaredMethods().length);
         for (Method method: Object.class.getDeclaredMethods()) {
             System.out.println(method.getName());
-            System.out.println("commit changes on github online part changes");
+            System.out.println("commit changes on github online part changes-1");
 
         }
     }
